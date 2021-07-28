@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Python, machine learning..
 - 🌱 I’m currently learning Python and Machine learning
 - 💞️ I’m looking to collaborate on python programming
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 LovelyKuziva/LovelyKuziva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
